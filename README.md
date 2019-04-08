@@ -1,7 +1,7 @@
-### DESCRIPTION
-  a basic calculator created by using react and redux
-
-## DEVELOPMENT
+## DESCRIPTION
+  a basic iphone-like calculator created by using react and redux
+  
+### DEVELOPMENT
   ```
   npm install
   ```
