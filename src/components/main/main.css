@@ -1,0 +1,10 @@
+.main{
+  display: flex;
+  flex-direction: row;
+  height: 335px;
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: black;
+  padding: 5px 0;
+}

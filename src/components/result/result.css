@@ -1,0 +1,32 @@
+.result{
+  width: 100%;
+  height: 115px;
+  position: relative;
+}
+.value{
+  height: 50%;
+  width: 90%;
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  color: white;
+  font-size: 40px;
+  text-align: right;
+  font-weight: 700;
+  overflow: auto;
+  overflow-y: hidden;
+}
+::-webkit-scrollbar {
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.6);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(46, 42, 42);
+  outline: 1px solid slategrey;
+  border-radius: 5px;
+}
